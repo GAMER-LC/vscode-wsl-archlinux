@@ -8,4 +8,4 @@
 - 5. 打开vscode的终端就可以愉快的使用archlinux了，wsl默认挂在本地磁盘在/mnt目录，比如c盘的路径是/mnt。
 
 ## 效果图
-![emmmmm](https://raw.githubusercontent.com/smshen/MarkdownPhotos/master/Res/test.jpg)
+![emmmmm](https://raw.githubusercontent.com/interfacekun/vscode-wsl-archlinux/master/emmmm.png)
